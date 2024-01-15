@@ -61,4 +61,7 @@ linha_2= f"Seu IMC está classificado como {classificacao_imc}"
 linha_3= f"Para seu IMC ideal você deveria alcançar a meta de {imc_alto_padrao:.2f}, porém, creio que {imc_baixo_padrao:.2f} já estará de bom tamanho."
 linha_4= f"Não se cobre tanto ;)"
 
-print(linha_1, linha_2, linha_3, linha_4)
+print(linha_1)
+print(linha_2)
+print(linha_3)
+print(linha_4)
